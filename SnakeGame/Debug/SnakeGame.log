@@ -1,0 +1,5 @@
+﻿  main.cpp
+  SnakeGame.cpp
+  Generating Code...
+D:\Documents\Programming\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(123): error C4700: uninitialized local variable 'prev2Y' used
+D:\Documents\Programming\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(123): error C4700: uninitialized local variable 'prev2Y' used
